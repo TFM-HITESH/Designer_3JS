@@ -31,7 +31,7 @@ const Home = () => {
                     >
                         <motion.div {...headTextAnimation}>
                             <h1 className="head-text">
-                                LET'S <br className="xl:block hidden" /> DO IT.
+                                VICUNA <br className="xl:block hidden" /> DESIGN.
                             </h1>
                         </motion.div>
                         <motion.div
